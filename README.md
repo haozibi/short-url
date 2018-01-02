@@ -1,7 +1,7 @@
 ### 短链接生成算法
 
 > usage
-```
+```go
 import "ShortUrlGenerator"
 
 result, err := ShortUrlGenerator.Transform("www.baidu.com")
